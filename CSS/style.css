@@ -1,0 +1,26 @@
+
+body{
+	font: 20px Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+
+.navbar {
+	background-color: #4EA684;
+}
+
+.quem-somos{
+	background-color: #8181F7;
+	color: aliceblue;
+}
+
+.margin{
+	padding-bottom: 50px;
+	padding-top: 10px;
+}
+.parceiros{
+	background-color: #63CBD1;
+}
+
+.bg-footer{
+	background-color: black;
+	color:coral;
+}
